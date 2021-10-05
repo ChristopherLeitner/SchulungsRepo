@@ -1,2 +1,3 @@
 # SchulungsRepo
-Dies ist ein Test Repo für Tetsing pro
+Dies ist ein Test Repo für Testing pro.
+Jetzt ohne Rechtschreibfehler!
